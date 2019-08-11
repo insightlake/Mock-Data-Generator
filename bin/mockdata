@@ -38,4 +38,4 @@ for f in $EDP_HOME/libs/*.jar; do
     CLASSPATH=${CLASSPATH}:$f;
 done
 
-java -jar ../libs/mockdata.jar $@
+java -cp $CLASSPATH com.vserve.insightlake.mockdata.Application $@
