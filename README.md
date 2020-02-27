@@ -1,5 +1,17 @@
 # Mock-Data-Generator
-Mock data generator
+ ### Mock Data Generator ###
+
+<img style="width:100%;" src="images/mockdata-tab/mockdata-profile.png">
+
+### Users ###
+* User Details
+
+<img style="width:100%;" src="images/users-tab/user-details-page.png">
+
+* Group Details
+
+<img style="width:100%;" src="images/users-tab/user-group-details.png">
+
 
 ## Installation
 
