@@ -3,6 +3,14 @@
 
 <img style="width:100%;" src="images/mockdata-tab/mockdata-profile.png">
 
+* Add Field
+
+<img style="width:100%;" src="images/mockdata-tab/add-fields.png">
+
+* Generate Data
+
+<img style="width:100%;" src="images/mockdata-tab/generate-data.png">
+
 ### Users ###
 * User Details
 
