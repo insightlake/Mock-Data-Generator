@@ -1,0 +1,16 @@
+version: "2.0"
+
+services:
+  mockdata-backend-service:
+    build:
+      context: ../libs
+      dockerfile: ./mockdatabacked
+    ports:
+    - 9494:9494
+
+  mockdata-ui-service:
+    build:
+      context: ../libs
+      dockerfile: ./mockdataui
+    ports:
+    - 8080:8080

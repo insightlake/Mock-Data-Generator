@@ -41,6 +41,12 @@ config : data profile yaml file
 
 ./mockdata --format parquet --config ../conf/example.yaml --target "gs://mybucket/folder1" --type bucket
 
+Installation using docker 
+------
+* Download or clone the repository. 
+* cd docker
+* docker-compose -f docker-compose.yaml up --build
+
 ## Example Config YAML File
 ```
 tables:
