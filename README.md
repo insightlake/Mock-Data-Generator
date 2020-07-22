@@ -44,8 +44,9 @@ config : data profile yaml file
 Installation using docker 
 ------
 * Download or clone the repository. 
-* cd docker
-* docker-compose -f docker-compose.yaml up --build
+* cd /docker
+* Run `docker-compose -f docker-compose.yaml up --build`
+* Open browser with URL as http://localhost:8080/
 
 ## Example Config YAML File
 ```
